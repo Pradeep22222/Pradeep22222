@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pradeep Kumar Dhital 👋</h1>
 <br/>
-<p></p>
+<p>I am a practical software developer who has a strong interest and skill in constructing programs that can handle growth, be easily managed, and have a sound structure, all while incorporating elegantly written code.</p>
 
 
 
