@@ -5,8 +5,8 @@
 <h3>Technologies I am familiar with</h3>
 <p>React, Redux, NodeJs, Express, MongoDB, HTML5 & CSS3, Javascript, SCSS, Git, Github, npm and Visual Studio Code</P>
 
-<p>- 🔭 I’m currently working on MERN stack E-Commerce platform.</p>
-<p> 🌱 I’m currently learning Typescript.</p>
+<h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
+<h4> 🌱 I’m currently learning Typescript.</h4>
 
 
 <h3>📫 Reach me through </h3>
