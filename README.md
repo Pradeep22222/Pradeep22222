@@ -7,8 +7,14 @@
 
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
 <h5>Visit the with the links provided below</h5>
-<p><a href="https://pk-ecom.vercel.app/">Client Side</a>        <a href="https://pk-ecom-cms.vercel.app/">CMS</a></p>
-
+<p></p>
+<ul>
+   <li><a href="https://pk-ecom.vercel.app/" target="_blank">Client App</a></li>
+  <li><ahref="https://pk-ecom-cms.vercel.app/" target="_blank">CMS</a></li> 
+  <li>Login Details</li>
+<li>Email:Pradeepdhital@gmail.com</li>
+<li>Password:Pradeep</li>
+</ul>
 
 <h3>📫 Reach me through 🌐</h3>
 <hr>
