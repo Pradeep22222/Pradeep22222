@@ -9,6 +9,7 @@
 <p>Visit them with the links provided below:</p>
 <ul>
    Login Details:
+   <hr>
    <li>Email: Pradeepdhital@gmail.com</li>
    <li>Password: Pradeep</li>
 </ul>
