@@ -7,10 +7,11 @@
 <h1> </h1>
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
 <p>Visit them with the links provided below:</p>
-<p>Login Details:<p>
-   <p>Email: Pradeepdhital@gmail.com</p>
-   <p>Password: Pradeep</p>
-</p>
+<ul>
+   <li style={text-decoration:"underline"}>Login Details:</li>
+   <li>Email: Pradeepdhital@gmail.com</li>
+   <li>Password: Pradeep</li>
+</ul>
 <ul>
    <li><a href="https://pk-ecom.vercel.app/" target="_blank">Client App</a></li>
   <li><a href="https://pk-ecom-cms.vercel.app/" target="_blank">CMS</a></li> 
