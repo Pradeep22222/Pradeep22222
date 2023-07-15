@@ -6,8 +6,8 @@
 <p>React, Redux, NodeJs, Express, MongoDB, HTML5 & CSS3, Javascript, SCSS, Git, Github, npm and Visual Studio Code</P>
 
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
-<h5>Visit the with the links provided below</h5>
-<h6>Login Details<h6>
+<p>Visit them with the links provided below</p>
+<p>Login Details<p>
    <p>Email:Pradeepdhital@gmail.com</p>
    <p>Password:Pradeep</p>
 <ul>
