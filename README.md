@@ -8,7 +8,7 @@
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
 <p>Visit them with the links provided below:</p>
 <ul>
-   <li style={text-decoration="underline"}>Login Details:</li>
+   Login Details:
    <li>Email: Pradeepdhital@gmail.com</li>
    <li>Password: Pradeep</li>
 </ul>
