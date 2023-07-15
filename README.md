@@ -13,6 +13,7 @@
    <li>Email: Pradeepdhital@gmail.com</li>
    <li>Password: Pradeep</li>
 </ul>
+   <hr>
 <ul>
    <li><a href="https://pk-ecom.vercel.app/" target="_blank">Client App</a></li>
   <li><a href="https://pk-ecom-cms.vercel.app/" target="_blank">CMS</a></li> 
