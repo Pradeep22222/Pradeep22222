@@ -6,13 +6,7 @@
 <p>React, Redux, NodeJs, Express, MongoDB, HTML5 & CSS3, Javascript, SCSS, Git, Github, npm and Visual Studio Code</P>
 <h1> </h1>
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
-<p>Visit them with the links provided below:</p>
-<ul>
-   Login Details:
-   <hr>
-   <li>Email: Pradeepdhital@gmail.com</li>
-   <li>Password: Pradeep</li>
-</ul> 
+<p>Visit them with the links provided below:</p> 
 <ul>
    <hr>
    <li><a href="https://pk-ecom.vercel.app/" target="_blank">Client App</a></li>
