@@ -1,9 +1,9 @@
 <h1>Hi, I'm Pradeep 😊😊</h1>
 <p>I am a practical software developer who has a strong interest and skill in constructing programs that can handle growth, be easily managed, and have a sound structure, all while incorporating elegantly written code.</p>
 
-<h3>Technologies, I am familiar with:</h3>
+<h3>Languages and technologies, I am familiar with:</h3>
 <hr>
-<p>Javascript, React, Redux, NodeJs, Express, MongoDB, HTML5 , CSS3, SCSS, Git, Github, npm and Visual Studio Code</P>
+<p>JavaScript, React, Redux, NodeJs, ExpressJs, MongoDB, HTML5 , CSS3, SCSS, Git, Github, npm and Visual Studio Code</P>
 <h1> </h1>
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
 <ul>
