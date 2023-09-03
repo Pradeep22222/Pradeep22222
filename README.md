@@ -12,10 +12,8 @@
 </ul>
 
 <h3>📫 Reach me through 🌐</h3>
-<ul>
   <li><a href="https://www.facebook.com/pk.dheetaal" target="_blank">Facebook</a></li>
   <li><a href="https://www.linkedin.com/in/pradeepkumardhital/" target="_blank">LinkedIn</a></li>
   <li><a href="https://www.pradeepdhital.com/" target="_blank">Portfolio</a></li>
-</ul>
 
 
