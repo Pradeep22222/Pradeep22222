@@ -3,7 +3,7 @@
 
 <h3>Languages and technologies, I am familiar with:</h3>
 <hr>
-<p>JavaScript, React, Redux, NodeJs, ExpressJs, MongoDB, HTML5 , CSS3, SCSS, Git, Github, npm and Visual Studio Code</P>
+<p>JavaScript, TypeScript, ReactJs, Redux, NextJs, NodeJs, ExpressJs, MongoDB, Postgres SQL,  HTML5 , CSS3, SCSS, Git, Github, npm and Visual Studio Code</P>
 <h1> </h1>
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
 <ul>
