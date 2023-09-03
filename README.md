@@ -3,7 +3,7 @@
 
 <h3>Languages and technologies, I am familiar with:</h3>
 <hr>
-<p>JavaScript, TypeScript, ReactJs, Redux, NextJs, NodeJs, ExpressJs, MongoDB, Postgres SQL,  HTML5 , CSS3, SCSS, Git, Github, npm and Visual Studio Code</P>
+<p>JavaScript, TypeScript, ReactJs, Redux, NextJs, NodeJs, ExpressJs, MongoDB, Postgres SQL,  HTML5 , CSS3, SCSS, Git, Github, NPM and Visual Studio Code</P>
 <h1> </h1>
 <h4>🔭 I’m currently working on MERN stack E-Commerce platform.</h4>
 <ul>
@@ -12,7 +12,6 @@
 </ul>
 
 <h3>📫 Reach me through 🌐</h3>
-<hr>
 <ul>
   <li><a href="https://www.facebook.com/pk.dheetaal" target="_blank">Facebook</a></li>
   <li><a href="https://www.linkedin.com/in/pradeepkumardhital/" target="_blank">LinkedIn</a></li>
